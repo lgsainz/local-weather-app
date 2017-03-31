@@ -1,0 +1,11 @@
+{
+	"name": "cryptic-lowlands-34919",
+	"version": "1.0.0",
+	"description": "Use this to load static html site in heroku",
+	"scripts": {
+		"start": "harp server --port $PORT"
+	},
+	"dependencies": {
+		"harp": *
+	}
+}
