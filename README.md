@@ -1,3 +1,3 @@
 # local-weather-app
 
-Simple weather app using geolocation and Open Weather API.
+Simple weather app to test Open Weather API.
