@@ -1,5 +1,5 @@
 // openweathermap API key
-var key = "6ef21b382b6be3b97ef367343ad9a1dc";
+var key = "";
 // set up variables for API callback
 var searchText = document.getElementById("search-box");
 var searchButton = document.getElementById("search-btn");
